@@ -133,5 +133,3 @@ Created by \[Aditya Halder]
 ## Support Me please
 
 If this project helps you or someone else understand finances better, consider giving it a ⭐ on GitHub or sharing it with others.
-
-```
